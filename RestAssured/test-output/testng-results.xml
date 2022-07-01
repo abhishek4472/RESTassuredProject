@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13064" started-at="2022-07-01T10:14:28Z" finished-at="2022-07-01T10:14:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13064" started-at="2022-07-01T10:14:28Z" finished-at="2022-07-01T10:14:41Z">
+      <class name="IbmFullstack.RestAssured.PetProject">
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IbmFullstack.RestAssured.PetProject@33a10788]" name="createUser" duration-ms="2451" started-at="2022-07-01T15:44:28Z" data-provider="provider" finished-at="2022-07-01T15:44:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhi44]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abhishek]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bahukhandi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[a@a.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9910512345]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="createUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IbmFullstack.RestAssured.PetProject@33a10788]" name="createUser" duration-ms="1255" started-at="2022-07-01T15:44:30Z" data-provider="provider" finished-at="2022-07-01T15:44:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[anshu44]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[anshuman]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dogra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[b@b.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9910567891]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method status="PASS" signature="getUser()[pri:0, instance:IbmFullstack.RestAssured.PetProject@33a10788]" name="getUser" duration-ms="3134" started-at="2022-07-01T15:44:31Z" finished-at="2022-07-01T15:44:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+        <test-method status="PASS" signature="LoginUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IbmFullstack.RestAssured.PetProject@33a10788]" name="LoginUser" duration-ms="1182" started-at="2022-07-01T15:44:35Z" data-provider="provider" finished-at="2022-07-01T15:44:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhi44]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abhishek]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bahukhandi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[a@a.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345678]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9910512345]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method status="PASS" signature="LoginUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IbmFullstack.RestAssured.PetProject@33a10788]" name="LoginUser" duration-ms="1185" started-at="2022-07-01T15:44:36Z" data-provider="provider" finished-at="2022-07-01T15:44:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[anshu44]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[anshuman]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dogra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[b@b.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9910567891]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method status="PASS" signature="UpdateUser()[pri:0, instance:IbmFullstack.RestAssured.PetProject@33a10788]" name="UpdateUser" duration-ms="1275" started-at="2022-07-01T15:44:37Z" finished-at="2022-07-01T15:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+        <test-method status="PASS" signature="deleteUser()[pri:0, instance:IbmFullstack.RestAssured.PetProject@33a10788]" name="deleteUser" duration-ms="2571" started-at="2022-07-01T15:44:38Z" finished-at="2022-07-01T15:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- IbmFullstack.RestAssured.PetProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
